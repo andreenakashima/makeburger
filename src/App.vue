@@ -31,7 +31,7 @@
   }
 
   .main-container {
-    margin: 50px;
+    margin: 50px 50px 200px;
     min-height: 250px;
   }
 

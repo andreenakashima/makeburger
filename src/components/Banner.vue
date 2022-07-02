@@ -12,7 +12,7 @@
 
 <style scoped>
     #main-banner {
-        background-image: url('@/assets/img/burger.jpg');
+        background-image: url('../../public/img/burger.jpg');
         background-position: 0 -250px;
         background-size: cover;
         height: 700px;
