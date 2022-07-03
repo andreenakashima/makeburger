@@ -89,6 +89,28 @@
       ],
       "status": "solicitado",
       "id": 1
+    },
+    {
+      "nome": "Andre",
+      "carne": "Picanha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Cheddar"
+      ],
+      "status": "solicitado",
+      "id": 2
+    },
+    {
+      "nome": "Yamha",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Cheddar",
+        "Tomate"
+      ],
+      "status": "solicitado",
+      "id": 3
     }
   ]
 }
