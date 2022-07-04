@@ -87,7 +87,7 @@
         "Salame",
         "Cebola roxa"
       ],
-      "status": "solicitado",
+      "status": "Solicitado",
       "id": 1
     },
     {
@@ -98,7 +98,7 @@
         "Bacon",
         "Cheddar"
       ],
-      "status": "solicitado",
+      "status": "Solicitado",
       "id": 2
     },
     {
@@ -109,7 +109,7 @@
         "Cheddar",
         "Tomate"
       ],
-      "status": "solicitado",
+      "status": "Solicitado",
       "id": 3
     }
   ]

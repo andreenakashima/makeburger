@@ -71,7 +71,7 @@
                 carne: this.carne,
                 pao: this.pao,
                 opcionais: Array.from(this.opcionais),
-                status: "solicitado"
+                status: "Solicitado"
             };
             const dataJason = JSON.stringify(data);
             const req = await fetch("http://localhost:3000/burgers", {
