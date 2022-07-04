@@ -79,38 +79,16 @@
   ],
   "burgers": [
     {
-      "nome": "Andre",
-      "carne": "Alcatra",
+      "nome": "Selena",
+      "carne": "Maminha",
       "pao": "Italiano Branco",
       "opcionais": [
-        "Tomate",
-        "Salame",
+        "Bacon",
+        "Cheddar",
         "Cebola roxa"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 1
-    },
-    {
-      "nome": "Andre",
-      "carne": "Picanha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
-      "nome": "Yamha",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Cheddar",
-        "Tomate"
-      ],
-      "status": "Solicitado",
-      "id": 3
     }
   ]
 }
